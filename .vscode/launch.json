@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringJpaDemo<spring-jpa-demo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.jpa.springjpademo.SpringJpaDemo",
+            "projectName": "spring-jpa-demo",
+            "args": ""
+        }
+    ]
+}

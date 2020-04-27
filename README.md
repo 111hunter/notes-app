@@ -1,17 +1,18 @@
-# Notes-App
+# Notes
 
-A simple full-stack application with spring boot and vue.js programs, I hope it is beginner friendly.
+A simple crud application with spring boot and vue.js project
 
-back-end:  Spring Boot + jpa
-front-end:  Vue.js + bootstrap4
+back-end:  Spring Boot + Spring Data JPA + Swagger
 
-### usage
+front-end:  Vue.js + Bootstrap4
 
-- clone repository:
+## Running the project
+
+clone repository:
 
 `$ git clone https://github.com/111hunter/notes-app `
 
-- Start the back-end service：
+### Start the back-end service
 
 `$ cd spring-jpa-demo `
 
@@ -19,16 +20,18 @@ front-end:  Vue.js + bootstrap4
 
 `$ mvn spring-boot:run `
 
-- Start the front-end service：
+Open browser on: http://localhost:8034/swagger-ui.html
+
+### Start the front-end service
 
 `$ cd blog-frontend`
 
 `$ yarn serve`
 
-- Open browser on: http://localhost:8080
+Open browser on: http://localhost:8080
 
 Show on PC:
-<div align=center><img src="https://raw.githubusercontent.com/111hunter/111hunter.github.io/master/post/resources/_gen/images/vue-pc.png" width="80%" alt="仓库图解"></div>
+<div align=center><img src="https://github.com/111hunter/111hunter.github.io/blob/master/img/vue-pc.png" width="80%"></div>
 
 Show on Mobile:
-<div align=center><img src="https://raw.githubusercontent.com/111hunter/111hunter.github.io/master/post/resources/_gen/images/vue-mobile.png" width="25%" alt="仓库图解"></div>
+<div align=center><img src="https://github.com/111hunter/111hunter.github.io/blob/master/img/vue-mobile.png" width="25%"></div>
