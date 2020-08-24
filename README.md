@@ -31,7 +31,7 @@ Open browser on: http://localhost:8034/swagger-ui.html
 Open browser on: http://localhost:8080
 
 Show on PC:
-<div align=center><img src="https://github.com/111hunter/111hunter.github.io/blob/master/img/vue-pc.png" width="80%"></div>
+<div align=center><img src="https://111hunter.github.io/img/vue-pc.png" width="80%"></div>
 
 Show on Mobile:
-<div align=center><img src="https://github.com/111hunter/111hunter.github.io/blob/master/img/vue-mobile.png" width="25%"></div>
+<div align=center><img src="https://111hunter.github.io/img/vue-mobile.png" width="25%"></div>
